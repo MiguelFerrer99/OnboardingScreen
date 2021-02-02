@@ -1,1 +1,1 @@
-# OnboardingScreen
+This project is an Onboarding screen. It's an idea that I had in my mind long time ago. Really it's so easy to do with a TabView structure. To make sure that only will be executed the first time you open the application, I used UserDefaults, which store value "tutorialDone". I hope you like it :)
